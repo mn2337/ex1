@@ -1,0 +1,4 @@
+.fakeClass {
+	background-size: cover;
+	background-img: url("https://via.placeholder.com/2000x1200");
+}

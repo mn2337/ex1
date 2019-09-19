@@ -1,0 +1,31 @@
+.app {
+
+}
+
+.app_header {
+
+}
+
+.article {
+
+}
+
+
+.article_header {
+	background-size: cover;
+	min-height: 350px;
+	padding: 80px 25px;
+}
+
+.article_header_text {
+	margin: 0 auto;
+	max-width: 660px;
+	padding: 0 25px;
+
+}
+
+.article_body {
+ 	margin: 0 auto;
+ 	max-width: 660px;
+ 	padding: 0 25px;
+}
