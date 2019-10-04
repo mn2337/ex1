@@ -1,3 +1,15 @@
+.article_body {
+	border-width: 2px;
+	border-style: solid;
+    border-color: red black;
+}
+
+.date {
+	font-size: 12px;
+	margin: 0 auto;
+}
+
+
 body {
 	box-sizing: border-box;
   margin: 0;
@@ -6,9 +18,25 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+}
+
+body p {
+	font-size: 25px;
+}
+
+body a {
+	font-size: 16px;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+
+img {
+	border-width: 2px;
+	border-style: solid;
+    border-color: black red;
 }

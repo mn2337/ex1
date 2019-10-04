@@ -55,7 +55,7 @@ const articleData =
 
     "image": {
 
-      "url": "https://via.placeholder.com/2000x1200",
+      "url": "https://via.placeholder.com/600x400",
 
       "alt": "A placeholder image"
 
@@ -119,7 +119,7 @@ const articleData =
 
     "image": {
 
-      "url": "https://via.placeholder.com/2000x1200",
+      "url": "https://via.placeholder.com/600x400",
 
       "alt": "A placeholder image"
 
@@ -183,7 +183,7 @@ const articleData =
 
     "image": {
 
-      "url": "https://via.placeholder.com/2000x1200",
+      "url": "https://via.placeholder.com/600x400",
 
       "alt": "A placeholder image"
 
@@ -247,7 +247,7 @@ const articleData =
 
     "image": {
 
-      "url": "https://via.placeholder.com/2000x1200",
+      "url": "https://via.placeholder.com/600x400",
 
       "alt": "A placeholder image"
 
@@ -311,7 +311,7 @@ const articleData =
 
     "image": {
 
-      "url": "https://via.placeholder.com/2000x1200",
+      "url": "https://via.placeholder.com/600x400",
 
       "alt": "A placeholder image"
 
@@ -391,7 +391,7 @@ const articleData =
 
     "image": {
 
-      "url": "https://via.placeholder.com/2000x1200",
+      "url": "https://via.placeholder.com/600x400",
 
       "alt": "A placeholder image"
 
